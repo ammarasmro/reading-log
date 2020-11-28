@@ -25,8 +25,9 @@ LINKS = (('AmmarAsmaro.com', 'https://ammarasmaro.com/'),)
         #  ('You can modify those links in your config file', '#'),)
 
 # Social widget
-SOCIAL = (('ammar-asmro ', 'https://www.linkedin.com/in/ammar-asmro/'),
-          ('ammarasmro', 'https://twitter.com/ammarasmaro'),)
+SOCIAL = (('GitHub', 'https://github.com/ammarasmro'),
+          ('LinkedIn', 'https://www.linkedin.com/in/ammar-asmro/'),
+          ('Twitter', 'https://twitter.com/ammarasmaro'),)
 
 DEFAULT_PAGINATION = 20
 
