@@ -3,7 +3,7 @@
 
 AUTHOR = 'Ammar Asmro'
 SITENAME = 'ReadingLog'
-SITEURL = ''
+SITEURL = 'https://ammarasmaro.com/reading-log'
 
 PATH = 'content'
 
