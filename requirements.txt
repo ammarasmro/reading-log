@@ -1,0 +1,2 @@
+pelican[markdown]==4.5.1
+ghp-import==1.0.0
